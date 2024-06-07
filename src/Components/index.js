@@ -1,3 +1,5 @@
 import Users from "./Users";
+import UserForm from "./UserForm";
+import UsersTable from "./UsersTable";
 
-export { Users };
+export { Users, UserForm, UsersTable };

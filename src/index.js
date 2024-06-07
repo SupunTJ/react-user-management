@@ -4,9 +4,9 @@ import "./index.css";
 
 import reportWebVitals from "./reportWebVitals";
 import { App } from "./Container";
-import UserForm from "./Components/UserForm";
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { Users } from "./Components";
+import Users from "./Components/Users";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
